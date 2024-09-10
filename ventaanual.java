@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class VentaAnual {
+public class ventaanual {
     private List<String> departamentos;
     private List<String> meses;
     private double[][] ventas;
